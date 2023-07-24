@@ -1,0 +1,8 @@
+D:\Assisted projects\Section 6\DoAppWorkingwithFiles\DoAppWorkingwithFiles\bin\Debug\DoAppWorkingwithFiles.exe.config
+D:\Assisted projects\Section 6\DoAppWorkingwithFiles\DoAppWorkingwithFiles\bin\Debug\DoAppWorkingwithFiles.exe
+D:\Assisted projects\Section 6\DoAppWorkingwithFiles\DoAppWorkingwithFiles\bin\Debug\DoAppWorkingwithFiles.pdb
+D:\Assisted projects\Section 6\DoAppWorkingwithFiles\DoAppWorkingwithFiles\obj\Debug\DoAppWorkingwithFiles.csproj.AssemblyReference.cache
+D:\Assisted projects\Section 6\DoAppWorkingwithFiles\DoAppWorkingwithFiles\obj\Debug\DoAppWorkingwithFiles.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section 6\DoAppWorkingwithFiles\DoAppWorkingwithFiles\obj\Debug\DoAppWorkingwithFiles.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section 6\DoAppWorkingwithFiles\DoAppWorkingwithFiles\obj\Debug\DoAppWorkingwithFiles.exe
+D:\Assisted projects\Section 6\DoAppWorkingwithFiles\DoAppWorkingwithFiles\obj\Debug\DoAppWorkingwithFiles.pdb

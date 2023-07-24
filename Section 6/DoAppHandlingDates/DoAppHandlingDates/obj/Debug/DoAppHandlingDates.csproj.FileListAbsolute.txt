@@ -1,0 +1,8 @@
+D:\Assisted projects\Section 6\DoAppHandlingDates\DoAppHandlingDates\bin\Debug\DoAppHandlingDates.exe.config
+D:\Assisted projects\Section 6\DoAppHandlingDates\DoAppHandlingDates\bin\Debug\DoAppHandlingDates.exe
+D:\Assisted projects\Section 6\DoAppHandlingDates\DoAppHandlingDates\bin\Debug\DoAppHandlingDates.pdb
+D:\Assisted projects\Section 6\DoAppHandlingDates\DoAppHandlingDates\obj\Debug\DoAppHandlingDates.csproj.AssemblyReference.cache
+D:\Assisted projects\Section 6\DoAppHandlingDates\DoAppHandlingDates\obj\Debug\DoAppHandlingDates.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section 6\DoAppHandlingDates\DoAppHandlingDates\obj\Debug\DoAppHandlingDates.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section 6\DoAppHandlingDates\DoAppHandlingDates\obj\Debug\DoAppHandlingDates.exe
+D:\Assisted projects\Section 6\DoAppHandlingDates\DoAppHandlingDates\obj\Debug\DoAppHandlingDates.pdb

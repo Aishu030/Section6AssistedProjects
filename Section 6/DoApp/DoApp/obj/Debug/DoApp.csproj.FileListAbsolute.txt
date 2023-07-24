@@ -1,0 +1,8 @@
+D:\Assisted projects\Section 6\DoApp\DoApp\bin\Debug\DoApp.exe.config
+D:\Assisted projects\Section 6\DoApp\DoApp\bin\Debug\DoApp.exe
+D:\Assisted projects\Section 6\DoApp\DoApp\bin\Debug\DoApp.pdb
+D:\Assisted projects\Section 6\DoApp\DoApp\obj\Debug\DoApp.csproj.AssemblyReference.cache
+D:\Assisted projects\Section 6\DoApp\DoApp\obj\Debug\DoApp.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section 6\DoApp\DoApp\obj\Debug\DoApp.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section 6\DoApp\DoApp\obj\Debug\DoApp.exe
+D:\Assisted projects\Section 6\DoApp\DoApp\obj\Debug\DoApp.pdb
